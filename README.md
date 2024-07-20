@@ -34,6 +34,10 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ![Example logo](./Examples/10-oop-homework-demo.png)
 
+![Walkthrough video](./Examples/Walkthrough.gif)
+
+Link to walkthrough: https://drive.google.com/file/d/1eSZwhlWwm-oo9TMj5esMpNoCZNABemGv/view
+
 ## Credits
 
 *   Coding Boot Camp. (n.d.). (accessed July 20, 2024) Professional README Guide. Retrieved from https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide 
