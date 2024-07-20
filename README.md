@@ -38,7 +38,17 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 *   Coding Boot Camp. (n.d.). (accessed July 20, 2024) Professional README Guide. Retrieved from https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide 
 
-*   Mozilla. (accessed July, 20 2024). Promise. Mozilla Developer Network. Retrieved from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise 
+*   npm Inc. (2024). (accessed July, 20 2024). jest. npm. Retrieved from https://www.npmjs.com/package/jest 
+
+*   npm Inc. (2024). (accessed July, 20 2024). inquirer. npm. Retrieved from https://www.npmjs.com/package/inquirer/v/8.2.4
+
+*   Mozilla. (n.d.). (accessed July, 20 2024). Classes. Mozilla Developer Network. Retrieved from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes 
+
+*   Mozilla. (n.d.). (accessed July, 20 2024). Promise. Mozilla Developer Network. Retrieved from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise 
+
+*   Mozilla. (n.d.). (accessed July, 20 2024). RegExp. Mozilla Developer Network. Retrieved from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
+
+*   Wikipedia contributors. (n.d.). (accessed July, 20 2024). Scalable Vector Graphics. In Wikipedia, The Free Encyclopedia. Retrieved from https://en.wikipedia.org/wiki/SVG
 
 ## License
 MIT License
