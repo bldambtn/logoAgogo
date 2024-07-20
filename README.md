@@ -32,7 +32,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Mock-Up
 
-![Example logo](./Assets/10-oop-homework-demo.png)
+![Example logo](./Examples/10-oop-homework-demo.png)
 
 ## Credits
 
